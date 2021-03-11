@@ -1,0 +1,22 @@
+﻿body {
+    background-color: #3c3c3c;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: #32e7e7;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    color: #32e7e7;
+    font-size: 30px
+}
+
+p {
+    color:azure;
+    font-size: 20px;
+}
